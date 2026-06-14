@@ -10,22 +10,11 @@ Documented · MIT licensed · Maintained
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
-[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
-
 </div>
 
 ---
 
-## 🖼 Screenshots
-
-![Mouse Coordinate Tracker screenshot](docs/screenshots/placeholder.svg)
-
-*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
-
----
-
 ## 🐍 Contribution graph
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/output/snake-dark.svg" />
@@ -33,16 +22,11 @@ Documented · MIT licensed · Maintained
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/output/snake.svg" />
 </picture>
 
-
 ---
 
 \# Mouse Coordinate Tracker
 
-
-
 A lightweight Python utility tool that tracks and prints mouse click coordinates in real-time.
-
-
 
 Useful for:
 
@@ -56,15 +40,9 @@ Useful for:
 
 \- Coordinate detection
 
-
-
 \## Screenshots
 
-![mouse-coordinate-tracker dashboard](docs/screenshots/app.png)
-
 ## Features
-
-
 
 \- Real-time mouse click tracking
 
@@ -76,21 +54,13 @@ Useful for:
 
 \- Useful for automation projects
 
-
-
 \## Tech Stack
-
-
 
 \- Python
 
 \- pynput
 
-
-
 \## Project Structure
-
-
 
 ```text
 
@@ -106,15 +76,9 @@ mouse-coordinate-tracker/
 
 ```
 
-
-
 \## Installation
 
-
-
 Install required package:
-
-
 
 ```bash
 
@@ -122,11 +86,7 @@ pip install pynput
 
 ```
 
-
-
 \## How to Run
-
-
 
 ```bash
 
@@ -134,11 +94,7 @@ python co\_ordinates.py
 
 ```
 
-
-
 \## Usage
-
-
 
 1\. Run the script
 
@@ -146,11 +102,7 @@ python co\_ordinates.py
 
 3\. Coordinates will print in terminal
 
-
-
 Example output:
-
-
 
 ```text
 
@@ -158,11 +110,7 @@ Clicked at → X: 450, Y: 320
 
 ```
 
-
-
 \## Use Cases
-
-
 
 \- Finding screen coordinates for automation
 
@@ -174,17 +122,10 @@ Clicked at → X: 450, Y: 320
 
 \- Desktop scripting
 
-
-
 \## Author
 
-
-
 Muhammad Afzal Kalwar
-
-
 
 GitHub:
 
 @mafzalkalwardev
-
