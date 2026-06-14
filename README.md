@@ -42,6 +42,10 @@ Useful for:
 
 \## Screenshots
 
+## Screenshots
+
+![Application screenshot](docs/screenshots/app.png)
+
 ## Features
 
 \- Real-time mouse click tracking
