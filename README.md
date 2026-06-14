@@ -58,7 +58,11 @@ Useful for:
 
 
 
-\## Features
+\## Screenshots
+
+![mouse-coordinate-tracker dashboard](docs/screenshots/app.png)
+
+## Features
 
 
 
