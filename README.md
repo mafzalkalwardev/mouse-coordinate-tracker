@@ -17,30 +17,24 @@ Documented · MIT licensed · Maintained
 ## 🐍 Contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/gh-pages/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/gh-pages/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/mouse-coordinate-tracker/gh-pages/output/snake.svg" />
 </picture>
 
 ---
 
-\# Mouse Coordinate Tracker
 
 A lightweight Python utility tool that tracks and prints mouse click coordinates in real-time.
 
 Useful for:
 
-\- PyAutoGUI automation
+- PyAutoGUI automation
+- Desktop automation
+- Bot scripting
+- UI interaction testing
+- Coordinate detection
 
-\- Desktop automation
-
-\- Bot scripting
-
-\- UI interaction testing
-
-\- Coordinate detection
-
-\## Screenshots
 
 ## Screenshots
 
@@ -48,85 +42,63 @@ Useful for:
 
 ## Features
 
-\- Real-time mouse click tracking
+- Real-time mouse click tracking
+- Displays X and Y coordinates
+- Lightweight utility
+- Easy to use
+- Useful for automation projects
 
-\- Displays X and Y coordinates
+## Tech Stack
 
-\- Lightweight utility
+- Python
+- pynput
 
-\- Easy to use
-
-\- Useful for automation projects
-
-\## Tech Stack
-
-\- Python
-
-\- pynput
-
-\## Project Structure
+## Project Structure
 
 ```text
-
 mouse-coordinate-tracker/
 
 │
-
-├── co\_ordinates.py
-
+├── co_ordinates.py
 ├── README.md
-
 └── .gitignore
-
 ```
 
-\## Installation
+## Installation
 
 Install required package:
 
 ```bash
-
 pip install pynput
-
 ```
 
-\## How to Run
+## How to Run
 
 ```bash
-
-python co\_ordinates.py
-
+python co_ordinates.py
 ```
 
-\## Usage
+## Usage
 
-1\. Run the script
-
-2\. Click anywhere on screen
-
-3\. Coordinates will print in terminal
+1. Run the script
+2. Click anywhere on screen
+3. Coordinates will print in terminal
 
 Example output:
 
 ```text
-
 Clicked at → X: 450, Y: 320
-
 ```
 
-\## Use Cases
+## Use Cases
 
-\- Finding screen coordinates for automation
+- Finding screen coordinates for automation
+- Building PyAutoGUI bots
+- UI testing
+- Workflow automation
+- Desktop scripting
 
-\- Building PyAutoGUI bots
-
-\- UI testing
-
-\- Workflow automation
-
-\- Desktop scripting
-
-\## Author
+## Author
 
 Muhammad Afzal Kalwar
 
